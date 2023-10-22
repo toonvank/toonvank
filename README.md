@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [blog.toonvank.online](blog.toonvank.online)
+- 📝 I regularly write articles on [blog.toonvank.online](https://blog.toonvank.online/)
 
 - 📫 How to reach me **toonvankimmenade@gmail.com**
 
-- 📄 Get to know me and my experience [toonvank.online](toonvank.online)
+- 📄 Get to know me and my experience [toonvank.online](https://toonvank.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
