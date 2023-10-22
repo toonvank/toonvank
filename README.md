@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Toon</h1>
 <h3 align="center">A passionate backend developer from Belgium</h3>
 
-<img align="right" alt="Coding" width="400" src="./coding.svg">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toonvank&label=Profile%20views&color=0e75b6&style=flat" alt="toonvank" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toonvank" alt="toonvank" /></a> </p>
+
+<img align="right" alt="Coding" width="300" src="./coding.svg">
 
 - 🔭 I’m currently working on a Java Chess terminal game [Java Chess Terminal](https://github.com/toonvank/terminalChessJava)
 
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me **toonvankimmenade@gmail.com**
 
-- 📄 Know about my experiences [toonvank.online](toonvank.online)
+- 📄 Get to konw me an my experience [toonvank.online](toonvank.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
