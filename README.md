@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="300" src="./coding.svg">
 
-- 🔭 I’m currently working on a Java Chess terminal game [Java Chess Terminal](https://github.com/toonvank/terminalChessJava)
-
 - 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [blog.toonvank.online](https://blog.toonvank.online/)
