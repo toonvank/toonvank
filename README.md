@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📝 I regularly write articles on [blog.toonvank.online](https://blog.toonvank.online/)
-
 - 📫 How to reach me **toonvankimmenade@gmail.com**
 
 - 📄 Get to know me and my experience [toonvank.online](https://toonvank.online)
