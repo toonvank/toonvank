@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toon</h1>
 <h3 align="center">A passionate full-stack developer from Belgium</h3>
 <br/>
+
 - 🌱 I’m currently learning **Java Spring, Express & Flutter**
 
 - 📄 Know about my experiences & see my resume [https://toonvank.online/](https://toonvank.online/)
